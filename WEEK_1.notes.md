@@ -1,4 +1,4 @@
--# INTRODUCTION
+# INTRODUCTION
  MODULE TOPIC:
  1. Plant Genome DBs and useful sites for protein information
  2. Expression analysis
@@ -21,8 +21,8 @@ WHAT IS BIOINFORMATICS:
   - Have to protein post transcriptional modifications?
 
 ### Databases of A. thaliana and other plants
-- https://www.arabidopsis.org/index.jsp  (TAIR)
-- https://www.araport.org/ and then "ThaleMine link" (ARAPORT)
-- https://plants.ensembl.org/index.html (EnsemblPlants)
+- https://www.arabidopsis.org/index.jsp  (TAIR) -> Search for genes and functions
+- https://www.araport.org/ and then "ThaleMine link" (ARAPORT) -> Search for genes and functions
+- https://plants.ensembl.org/index.html (EnsemblPlants) -> Phylogenies, functions, and positions
 - http://suba.live/ (SUBA4) -> Subcellular localization database
 - http://bar.utoronto.ca/cell_efp/cgi-bin/cell_efp.cgi (Cell eFP Browser) -> Subcellular localization database
