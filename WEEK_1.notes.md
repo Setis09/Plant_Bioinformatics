@@ -26,3 +26,5 @@ WHAT IS BIOINFORMATICS:
 - https://plants.ensembl.org/index.html (EnsemblPlants) -> Phylogenies, functions, and positions
 - http://suba.live/ (SUBA4) -> Subcellular localization database
 - http://bar.utoronto.ca/cell_efp/cgi-bin/cell_efp.cgi (Cell eFP Browser) -> Subcellular localization database
+- PLAZA V3 and PLAZA V4 (PLAZA) -> Presents information from many databases. So, it allows to see phylogenetic tree, protein family tree
+- POLYMORPH 1001 -> Identify SNPs polymorphisms or insertions, deletions in particular genes. 
